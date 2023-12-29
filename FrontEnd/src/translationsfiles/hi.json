@@ -1,0 +1,13 @@
+{
+    "greeting": "नमस्ते!",
+    "selectLangHeading":"कृपया अपनी पसंद के अनुसार भाषा का चयन करें",
+    "back":"पीछे",
+    "next":"अगला",
+    "fullName":"पूरा नाम",
+    "contactNo":"संपर्क फ़ोन संख्या",
+    "otpNumber":"ओटीपी नंबर",
+    "getOTP":"ओटीपी प्राप्त करें",
+    "verifyOTP":"ओटीपी सत्यापित करें",
+    "selectPatientTypeHeading":"कृपया रोगी का प्रकार चुनें"
+  }
+  

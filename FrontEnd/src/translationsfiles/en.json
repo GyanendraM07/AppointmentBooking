@@ -1,0 +1,15 @@
+{
+    "greeting": "Hello Love",
+    "selectLangHeading":"Please select the language according to your preference",
+    "back":"BACK",
+    "next":"NEXT",
+    "fullName":"Full Name",
+    "contactNo":"Contact Number",
+    "otpNumber":"OTP Number",
+    "getOTP":"GET OTP",
+    "verifyOTP":"VERIFY OTP",
+    "selectPatientTypeHeading":"Please Select Patient Type"
+  
+  }
+  
+  
